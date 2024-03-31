@@ -674,10 +674,12 @@ a {
 
 .footer .row .column {
     width: 21.6%;
+    background:
 }
 
 .footer .row .column:first-child {
     width: 35%;
+    background: blue
 }
 
 .footer .desc {

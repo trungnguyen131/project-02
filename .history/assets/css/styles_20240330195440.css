@@ -673,7 +673,7 @@ a {
 }
 
 .footer .row .column {
-    width: 21.6%;
+    /* width: 21.6%; */
 }
 
 .footer .row .column:first-child {

@@ -677,7 +677,7 @@ a {
 }
 
 .footer .row .column:first-child {
-    width: 35%;
+    /* width: 35%; */
 }
 
 .footer .desc {
